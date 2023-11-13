@@ -1,18 +1,5 @@
-# WebShop Application with Component
-
-This backend provides a small web-application consisting of a [pedestal](http://pedestal.io/)
-service, and a database connection to persist items. These two components are compose in 
-a system with Stuart Sierra's [Component](https://github.com/stuartsierra/component) 
-library. The repo is based on [n2o's ToDo app](https://github.com/n2o/component-todo-app).
-
-## Requirements
-
-Short and crisp: Always have [Docker](https://docs.docker.com/install/) installed.
-
-Do you want to run the app virtualized with docker?
-* Yes: Then you will need [Docker Compose](https://docs.docker.com/compose/install/).
-* No: Please have [Leiningen](https://leiningen.org/#install) installed as build tool.
-
+## CLJ Setup
+https://github.com/clj-holmes/clj-holmes
 ## Setup
 
 The app needs a postgres database. You can create a database with correct
